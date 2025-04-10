@@ -3,3 +3,4 @@
 
 /// <reference path="../../../expo-modules-core/src/ts-declarations/NativeComponentRegistry" />
 /// <reference path="../../../expo/src/ts-declarations/react-native" />
+/// <reference path="../../../expo/src/ts-declarations/whatwg-url-without-unicode" />
